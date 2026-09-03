@@ -49,7 +49,7 @@ I am looking for software engineering roles where I can own meaningful product w
 | [**TicketTrader**](https://github.com/Jaime888888/TicketTrader) | A full-stack event marketplace with authentication, Ticketmaster search, favorites, wallet balances, and MySQL-backed buy/sell workflows. | Java, Servlets, JavaScript, MySQL |
 | [**Study Spot Finder**](https://github.com/Jaime888888/usc-study-spot-finder) | A team-built discovery platform for finding, saving, rating, and reviewing study spaces around USC. | React, Spring Boot, Java, JWT |
 | [**Baby Cry Monitor**](https://github.com/Jaime888888/baby-cry-monitor) | A two-node IoT prototype that combines Raspberry Pi audio capture, FFT-based signal analysis, MQTT telemetry, temporal smoothing, and a parent dashboard. | Python, Raspberry Pi, MQTT, NumPy |
-| [**Catan AlphaZero**](https://github.com/Jaime888888/jaime-catan) | A maintained research codebase for self-play, parallel MCTS, policy-value training, checkpoints, and arena evaluation; original history and contributor attribution are preserved. | Rust, Burn, MCTS, Slurm |
+| [**Catan AlphaZero**](https://github.com/Jaime888888/jaime-catan) | A Rust research project for self-play, parallel MCTS, policy-value training, checkpointing, and arena evaluation for four-player Catan. | Rust, Burn, MCTS, Slurm |
 
 ## Technical toolkit
 
@@ -78,4 +78,3 @@ I am looking for software engineering roles where I can own meaningful product w
   <a href="mailto:jaimem57@usc.edu">jaimem57@usc.edu</a> ·
   <a href="https://www.linkedin.com/in/jmartin101/">LinkedIn</a>
 </p>
-
