@@ -17,7 +17,7 @@
   <tr>
     <td align="center" width="25%"><strong>40+</strong><br /><sub>global users of a production AI platform</sub></td>
     <td align="center" width="25%"><strong>4</strong><br /><sub>industry and research internships</sub></td>
-    <td align="center" width="25%"><strong>5</strong><br /><sub>featured engineering projects</sub></td>
+    <td align="center" width="25%"><strong>6</strong><br /><sub>featured engineering projects</sub></td>
     <td align="center" width="25%"><strong>2</strong><br /><sub>languages: English and Spanish</sub></td>
   </tr>
 </table>
@@ -47,7 +47,8 @@ I am looking for software engineering roles where I can own meaningful product w
 | [**CityBuilder**](https://github.com/Jaime888888/CITIES_GAME_2) | A tested 3D city simulation with procedural terrain, roads and transit, zoning, weather, an evolving economy, and measurement-driven graphics work. | C#, Godot |
 | [**PawStation**](https://github.com/Jaime888888/pawstation-software) | Desktop and mobile clients for a Raspberry Pi smart feeder with live polling, device controls, camera streaming, local configuration, and history visualization. | Python, React Native, Expo, REST |
 | [**TicketTrader**](https://github.com/Jaime888888/TicketTrader) | A full-stack event marketplace with authentication, Ticketmaster search, favorites, wallet balances, and MySQL-backed buy/sell workflows. | Java, Servlets, JavaScript, MySQL |
-| [**Study Spot Finder**](https://github.com/Jaime888888/201-final-project) | A team-built discovery platform for finding, saving, rating, and reviewing study spaces around USC. | React, Spring Boot, Java, JWT |
+| [**Study Spot Finder**](https://github.com/Jaime888888/usc-study-spot-finder) | A team-built discovery platform for finding, saving, rating, and reviewing study spaces around USC. | React, Spring Boot, Java, JWT |
+| [**Baby Cry Monitor**](https://github.com/Jaime888888/baby-cry-monitor) | A two-node IoT prototype that combines Raspberry Pi audio capture, FFT-based signal analysis, MQTT telemetry, temporal smoothing, and a parent dashboard. | Python, Raspberry Pi, MQTT, NumPy |
 | [**Catan AlphaZero**](https://github.com/Jaime888888/jaime-catan) | A maintained research codebase for self-play, parallel MCTS, policy-value training, checkpoints, and arena evaluation; original history and contributor attribution are preserved. | Rust, Burn, MCTS, Slurm |
 
 ## Technical toolkit
